@@ -25,9 +25,9 @@ Siga as instruções abaixo para rodar o projeto localment.
   git clone https://github.com/FerVini/challenge-amigo-secreto
   ```
 2. **Acesse a pasta do projeto**:
-   ```
-   cd challenge-amigo-secreto
-   ```
+  ```
+  cd challenge-amigo-secreto
+  ```
 ### 🚀 Executando o Projeto
 
   * Localize o arquivo na pasta do projeto.
