@@ -23,7 +23,7 @@ function mostraListaDeAmigos(amigo) {
     listAmigos.innerHTML = '';
     
     amigos.forEach(amigo => {
-        listAmigos.innerHTML += `<li>${amigo}</li>`
+        listAmigos.insertAdjacentHTML('beforeend', `<li>${amigo}</li>`);
     });
 }
 
@@ -36,7 +36,7 @@ function sortearAmigo() {
 
 function mostrarResultado(index) {
     const listaResultado = document.querySelector('#resultado');
-    listaResultado.innerHTML = `<li>${amigos[index]}</li>`
+    listaResultado.insertAdjacentHTML('beforeend',`<li>${amigos[index]}</li>`);
     amigos.splice(index, 1);
     console.log(amigos)
 }
