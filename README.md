@@ -1,12 +1,12 @@
-﻿# Sorteador de amigo secreto
+# 🎁 Sorteador de Amigo Secreto
 
- > Uma aplicação web para ajudar no sorteio de amigo secreto
+> Uma aplicação web para facilitar o sorteio de amigo secreto.
 
 ## 📜 Descrição
 
-Projeto voltado para auxiliar o sorteio de amigo secreto.
+Este projeto tem como objetivo auxiliar no sorteio de amigo secreto de forma simples e prática.
 
-Este projeto foi realizado durante as aulas do curso ofertado pela Oracle + Alura (ONE - Oracle Next Education).
+O desenvolvimento foi realizado durante as aulas do curso oferecido pela Oracle + Alura (ONE - Oracle Next Education).
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -16,28 +16,28 @@ Este projeto foi realizado durante as aulas do curso ofertado pela Oracle + Alur
 
 ## 🛠️ Instalação e Uso
 
-Siga as instruções abaixo para rodar o projeto localment.
+Siga as instruções abaixo para executar o projeto localmente.
 
 ### 🔽 Download do Projeto
 
-1. **Clone o repositório**:
-  ```bash
-  git clone https://github.com/FerVini/challenge-amigo-secreto
-  ```
-2. **Acesse a pasta do projeto**:
-  ```
-  cd challenge-amigo-secreto
-  ```
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/FerVini/challenge-amigo-secreto
+   ```
+2. **Acesse a pasta do projeto:**
+   ```bash
+   cd challenge-amigo-secreto
+   ```
+
 ### 🚀 Executando o Projeto
 
-  * Localize o arquivo na pasta do projeto.
-  * Dê um duplo clique sobre ele para abrir no navegador padrão.
-  * Ou, clique com o botão direito e selecione "Abrir com" > Escolha um navegador.
+1. Localize o arquivo `index.html` na pasta do projeto.
+2. Dê um duplo clique sobre ele para abrir no navegador padrão.
+3. Ou clique com o botão direito e selecione "Abrir com" > Escolha um navegador.
 
 ## 👨‍💻 Autor
 
 Fernando Vinícius da Costa Vaz
 - **[LinkedIn](https://www.linkedin.com/in/fernando-vinicius-35010a251/)**
 - **[GitHub](https://github.com/FerVini)**
-
 
